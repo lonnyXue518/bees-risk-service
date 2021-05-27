@@ -1,0 +1,21 @@
+POST http://localhost:8080/risk/test
+Content-Type: application/json
+
+{
+  "requestId": "1",
+  "subMchId": "1",
+  "subAppid": "1",
+  "body": "1",
+  "detail": "1",
+  "orderNo": 0,
+  "totalAmount": 0,
+  "notifyUrl": "1",
+  "openid": "1",
+  "subOpenid": "1",
+  "nonceStr": "1",
+  "attach": "1",
+  "timeExpire": "1",
+  "appId": "1"
+}
+
+###
